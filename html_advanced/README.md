@@ -1,3 +1,4 @@
+<img src="coder.jpg" alt="Coder Image">
 # HTML, advanced
 
 ## Learning Objectives
