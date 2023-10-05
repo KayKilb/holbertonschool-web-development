@@ -1,1 +1,1 @@
-[CSS Advanced webpage] (https://kaykilb.github.io/holbertonschool-web-development/)
+[CSS Advanced webpage](https://kaykilb.github.io/holbertonschool-web-development/)
